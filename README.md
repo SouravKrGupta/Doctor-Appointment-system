@@ -1,3 +1,6 @@
+![Screenshot 2023-05-22 171848](https://github.com/SouravKrGupta/Doctor-Appointment-system/assets/89971045/049653f9-ed03-43cd-83c5-2720ab752f8f)
+![Screenshot 2023-05-22 171859](https://github.com/SouravKrGupta/Doctor-Appointment-system/assets/89971045/a83f9067-b431-4959-8b1f-196b5d25fc4b)
+![Screenshot 2023-05-22 171947](https://github.com/SouravKrGupta/Doctor-Appointment-system/assets/89971045/b00484bb-ca36-44df-9abf-74322cbe5bd4)
 # Doctor-Appointment-system
 Deployment of MERN STACK PROJECT
 
