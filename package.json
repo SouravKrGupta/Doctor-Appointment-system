@@ -11,7 +11,7 @@
     "dev": "concurrently \"npm start\" \"npm run client\""
   },
   "keywords": [],
-  "author": "techinfyt ",
+  "author": "Sourav Kumar Gupta",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
